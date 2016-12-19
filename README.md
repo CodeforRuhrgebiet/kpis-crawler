@@ -1,4 +1,4 @@
-# Code for Ruhrgebiet KPIs Crawler
+# Code for Ruhrgebiet KPIs Crawler [![Build Status](https://travis-ci.org/CodeforRuhrgebiet/kpis-crawler-docker.svg?branch=master)](https://travis-ci.org/CodeforRuhrgebiet/kpis-crawler-docker)
 
 [Docker Container](https://hub.docker.com/r/codeforruhrgebiet/kpis/)
 

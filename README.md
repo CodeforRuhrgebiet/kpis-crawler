@@ -1,12 +1,7 @@
-# Code for Ruhrgebiet KPIs Crawler [![Build Status](https://travis-ci.org/CodeforRuhrgebiet/kpis-crawler-docker.svg?branch=master)](https://travis-ci.org/CodeforRuhrgebiet/kpis-crawler-docker)
-
-[Docker Container](https://hub.docker.com/r/codeforruhrgebiet/kpis/)
+# Code for Ruhrgebiet KPIs Crawler
 
 | Environment variable | Description |
 | --- | --- |
-| `FIREBASE_SECRET` | Firebase secret |
-| `FIREBASE_USER_UUID` | Firebase user uuid |
-| `FIREBASE_USER_PASSWORD` | Firebase user password |
 | `MAILINGLIST_INFO_URL` | e. g. `https://lists.okfn.org/mailman/listinfo/codeforruhrgebiet` |
 | `MAILINGLIST_SLUG` | e. g. `codeforruhrgebiet` |
 | `MAILINGLIST_EMAIL` | Email of a mailinglist member that can view the member count |
@@ -19,3 +14,7 @@
 | `TWITTER_CONSUMER_SECRET` | Twitter consumer secret |
 | `TWITTER_ACCESS_TOKEN` | Twitter access token |
 | `TWITTER_ACCESS_TOKEN_SECRET` | Twitter access token secret |
+| `MYSQL_HOST` | MYSQL host |
+| `MYSQL_USER` | MYSQL user |
+| `MYSQL_PASSWORD` | MYSQL password |
+| `MYSQL_DATABASE` | MYSQL database name |
